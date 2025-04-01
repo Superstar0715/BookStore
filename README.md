@@ -2,7 +2,7 @@
 
 ## Lessons
 
-- [x] Lesson 01: Create Node.js project from scratch
+- [x] Lesson 01: Create Node.js project from scratch1
 - [x] Lesson 02: Create our first Http Route
 - [x] Lesson 03: Add MongoDB and mongoose to node js
 - [x] Lesson 04: Create Book model with mongoose
